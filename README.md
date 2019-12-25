@@ -1,6 +1,6 @@
 # DS1081 final coding exercise (extra)
 
-- Complete the required mission of one exericse by using Python 3 before the deadline
+- Complete the required mission of ONE exericse by using Python 3 before the deadline
 
 ## Deadline: 2020/1/4 23:59
 
@@ -9,7 +9,7 @@
 2. Use your GitHub account to fork this repository, create a folder named by your student ID, put the .ipynb file in the folder and then submit a pull request. Violations of deadline or requirements will not be merged.
 
 ### Bonus:
-- Exactly correct code will earn 20~50 extra points for the corresponding exercise according to the quality of modulization and comments.
+- Exactly correct code will earn 20~50 extra points for the corresponding exercise according to the quality of modulization and comments. (ONLY ONE exercise!!!)
 * Exactly correct code for THREE exercises will earn the right to choose your group partners in the next semester.
 
 ## Plagiarism is not allowed!
