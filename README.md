@@ -1,6 +1,6 @@
 # DS1081 final coding exercise (extra)
 
-- Complete the required mission of ONE exericse by using Python 3 before the deadline
+- Individually complete the required mission of ONE exericse by using Python 3 before the deadline (personal homework!!!)
 
 ## Deadline: 2020/1/4 23:59
 
