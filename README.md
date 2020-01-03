@@ -3,7 +3,7 @@
 - Individually complete the required mission of ONE exericse by using Python 3 before the deadline (personal homework!!!)
 
 ## Deadline: 2020/1/3 23:59
-### Note: You are welcome to browse the uploaded folders and contact me if there is any plagiarised code.
+### You are welcome to browse the folders and contact me if there is any plagiarised code.
 
 ### Requirements:
 1. Use the IDE of Anaconda with Jupyter Notebook to write codes, where the first line must have your student ID and name. Save your file named as "DS1ex#_StudentID.ipynb". You must modulize your codes into code segments and add comments for each.
